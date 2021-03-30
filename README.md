@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Yunha Jeong, a junior back-end developer 🐤
 
 <!--
 **yunhaDevGit/yunhaDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
