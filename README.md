@@ -24,7 +24,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28"/>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p><br/><br/>
 
