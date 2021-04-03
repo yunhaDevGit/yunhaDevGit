@@ -30,6 +30,11 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" height="28"/>
 </p><br/><br/>
 
+<p align="center">
+ ​:e-mail:​ Contact ​:e-mail:​<br/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="28"/>
+</p>
+
 <!--
 **yunhaDevGit/yunhaDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
