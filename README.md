@@ -17,15 +17,16 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <p align="center">
  ​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​  <br/>
 </p>
-<p align="center">
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> 
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="28"/>  
+<img src="https://img.shields.io/badge/SPRING-88CE02?style=flat-square&logo=Spring&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=Android&logoColor=white" height="28"/>
 </p><br/><br/>
 
 <!--
