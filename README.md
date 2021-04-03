@@ -3,7 +3,7 @@
 
   
 <p align="center">
-<h2>Hi there 👋</h2><br/>
+<font size="80" font-weight="bold" >Hi there 👋</font><br/>
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
