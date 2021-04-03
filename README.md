@@ -12,7 +12,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 한성대학교 공학경진대회 - 장려상 (2019.09.27) <br/>
 한성대학교 공학경진대회 - 후원업체상 (2019.09.27) <br/>
 한성대학교 캡스톤디자인 - 우수상 (2020.06.22) <br/>
-한성대학교 공학경진대회 - 동상 (2020.09.25) <br/>
+한성대학교 공학경진대회 - 동상 (2020.09.25) <br/><br/>
 </p>
 <p align="center">
  ​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​  <br/>
@@ -25,7 +25,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+</p><br/><br/>
 
 <!--
 **yunhaDevGit/yunhaDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
