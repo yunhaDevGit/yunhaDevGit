@@ -8,7 +8,8 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
 <p align="center">
-🏆 Awards 🏆<br/>
+  <span style="font:bold 40px">
+    🏆 Awards 🏆</span><br/>
 한성대학교 공학경진대회 - 장려상 (2019.09.27) <br/>
 한성대학교 공학경진대회 - 후원업체상 (2019.09.27) <br/>
 한성대학교 캡스톤디자인 - 우수상 (2020.06.22) <br/>
