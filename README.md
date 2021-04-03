@@ -8,8 +8,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
 <p align="center">
-  <span style="font:bold 40px">
-    🏆 Awards 🏆</span><br/>
+    🏆 Awards 🏆<br/>
 한성대학교 공학경진대회 - 장려상 (2019.09.27) <br/>
 한성대학교 공학경진대회 - 후원업체상 (2019.09.27) <br/>
 한성대학교 캡스톤디자인 - 우수상 (2020.06.22) <br/>
@@ -19,15 +18,16 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
  ​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​  <br/>
 </p>
 <p align="center"> 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="28"/>  
-<img src="https://img.shields.io/badge/SPRING-88CE02?style=flat-square&logo=Spring&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=Android&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Spring-88CE02?style=flat-square&logo=Spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" height="28"/>
 </p><br/><br/>
 
 <!--
