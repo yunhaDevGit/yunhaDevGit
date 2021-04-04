@@ -3,21 +3,20 @@
 
   
 
-<h1 align="center"" >Hi there 👋</h1><br/>
+<h3 align="center" >Hi there 👋</h3><br/>
 <p align="center">
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
+  <h3 align="center">🏆 Awards 🏆</h3><br/>
 <p align="center">
-    🏆 Awards 🏆<br/>
 한성대학교 공학경진대회 - 장려상 (2019.09.27) <br/>
 한성대학교 공학경진대회 - 후원업체상 (2019.09.27) <br/>
 한성대학교 캡스톤디자인 - 우수상 (2020.06.22) <br/>
 한성대학교 공학경진대회 - 동상 (2020.09.25) <br/><br/>
 </p>
-<p align="center">
- ​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​  <br/>
-</p>
+ <h3 align="center">​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​ </h3><br/>
+
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
@@ -32,8 +31,8 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="28"/>
 </p><br/><br/>
 
+ <h3 align="center">​:e-mail:​ Contact ​:e-mail:​</h3><br/>
 <p align="center">
- ​:e-mail:​ Contact ​:e-mail:​<br/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="28"/>
 </p>
 
