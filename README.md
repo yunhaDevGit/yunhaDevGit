@@ -35,7 +35,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
  <h3 align="center">​:e-mail:​ Contact ​:e-mail:​</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="28"/>
+<a href="https://github.com/JEONGYUNHA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="28"/></a>
 </p>
 
 <!--
