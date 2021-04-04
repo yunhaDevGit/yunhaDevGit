@@ -3,12 +3,12 @@
 
   
 
-<h2 align="center" >Hi there 👋</h2>
+<h3 align="center" >Hi there 👋</h3>
 <p align="center">
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
-  <h2 align="center">🏆 Awards 🏆</h2>
+  <h3 align="center">🏆 Awards 🏆</h3>
 <p align="center">
 한성대학교 공학경진대회 - 장려상 (2019.09.27) <br/>
 한성대학교 공학경진대회 - 후원업체상 (2019.09.27) <br/>
@@ -31,7 +31,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="28"/>
 </p><br/><br/>
 
- <h2 align="center">​:e-mail:​ Contact ​:e-mail:​</h2>
+ <h3 align="center">​:e-mail:​ Contact ​:e-mail:​</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="28"/>
 </p>
