@@ -10,10 +10,10 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 
   <h3 align="center">🏆 Awards 🏆</h3>
   <p align="center"> 
-[한성대학교 공학경진대회 - 장려상 (2019.09.27)](https://github.com/JEONGYUNHA/Homi_Project.git) <br/>
-[한성대학교 공학경진대회 - 후원업체상 (2019.09.27)](https://github.com/JEONGYUNHA/Homi_Project.git) <br/>
-[한성대학교 캡스톤디자인 - 우수상 (2020.06.22)](https://github.com/JEONGYUNHA/ImageManageApp.git) <br/>
-[한성대학교 공학경진대회 - 동상 (2020.09.25)](https://github.com/JEONGYUNHA/ImageManageApp.git) <br/><br/>
+  <a href="https://github.com/JEONGYUNHA/Homi_Project.git">한성대학교 공학경진대회 - 장려상 (2019.09.27)</a> <br/>
+  <a href="https://github.com/JEONGYUNHA/Homi_Project.git">한성대학교 공학경진대회 - 후원업체상 (2019.09.27)</a><br/>
+  <a href="https://github.com/JEONGYUNHA/ImageManageApp.git">한성대학교 캡스톤디자인 - 우수상 (2020.06.22)</a> <br/>
+  <a href="https://github.com/JEONGYUNHA/ImageManageApp.git">한성대학교 공학경진대회 - 동상 (2020.09.25)</a><br/><br/>
   </p>
   
  <h3 align="center">​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​ </h3>
