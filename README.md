@@ -2,8 +2,9 @@
 
 
   
+
+<h1 align="center"" >Hi there 👋</h1><br/>
 <p align="center">
-<span size="80" font-weight="bold" >Hi there 👋</span><br/>
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 </p>
 
