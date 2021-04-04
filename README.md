@@ -15,7 +15,7 @@ I'm Yunha Jeong, a junior back-end developer 🐤 <br/><br/>
 한성대학교 캡스톤디자인 - 우수상 (2020.06.22) <br/>
 한성대학교 공학경진대회 - 동상 (2020.09.25) <br/><br/>
 </p>
- <h3 align="center">​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​ </h3><br/>
+ <h3 align="center">​:hammer_and_wrench:​ Tech Stack ​:hammer_and_wrench:​ </h3>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
