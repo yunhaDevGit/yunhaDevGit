@@ -40,6 +40,9 @@ I always welcome questions and feedback on deficiencies :rainbow:​<br/><br/>
 <a href="https://github.com/JEONGYUNHA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="28"/></a>
 </p>
 
+ ![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhaDevGit&show_icons=true&theme=radical)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhaDevGit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yunhaDevGit/yunhaDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
