@@ -3,7 +3,7 @@
 
   
 
-<h3 align="center" >Hi there 👋</h3>
+<h3 align="center" >Hello 👋</h3>
 <p align="center">
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/>
 I will try every day to be a good developer<br/>
