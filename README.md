@@ -8,7 +8,7 @@
 I'm Yunha Jeong, a junior back-end developer 🐤 <br/>
 I will try every day to be a good developer<br/>
 I always welcome questions and feedback on deficiencies :rainbow:​<br/>
-thank you.<br/> <br/>
+thank you!<br/> <br/>
 </p>
 
   <h3 align="center">🏆 Awards 🏆</h3>
