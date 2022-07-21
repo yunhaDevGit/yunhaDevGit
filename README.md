@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&section=footer&text=yunha%20repository📑&fontSize=50)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Yunha%20Jeong%20&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
 
   
 
