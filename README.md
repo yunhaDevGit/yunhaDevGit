@@ -33,8 +33,7 @@ thank you!!!<br/> <br/>
 <a href="https://yundevnote.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF8800?style=flat-square&logo=Bloglovin&logoColor=white" height="24"/></a>
 </p>
 
- ![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhaDevGit&show_icons=true&theme=radical)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhaDevGit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ ![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhaDevGit&show_icons=true&theme=radical) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhaDevGit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yunhaDevGit/yunhaDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
